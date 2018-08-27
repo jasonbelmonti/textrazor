@@ -41,4 +41,4 @@ class TextRazor {
   }
 }
 
-module.exports = new Textrazor();
+module.exports = new TextRazor();
