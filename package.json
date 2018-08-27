@@ -1,6 +1,6 @@
 {
   "name": "@jasonbelmonti/textrazor",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Node wrapper for TextRazor",
   "main": "index.js",
   "scripts": {
