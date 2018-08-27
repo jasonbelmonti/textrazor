@@ -1,0 +1,16 @@
+{
+  "name": "@jasonbelmonti/textrazor",
+  "version": "0.0.1",
+  "description": "Node wrapper for TextRazor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jason Belmonti <jasonbelmonti@gmail.com> (http://www.byteblink.com/)",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^6.0.0",
+    "request": "^2.88.0",
+    "request-promise-native": "^1.0.5"
+  }
+}
